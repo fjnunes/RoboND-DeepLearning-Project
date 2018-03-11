@@ -3,7 +3,7 @@
 
 ### A comprehensive discussion around implementation decisions can be found on this [Medium post](https://medium.com/@fernandojaruchenunes/udacity-robotics-nd-project-4-follow-me-1668c3a1361d).
 
-###For the reviewer:
+#### For the reviewer:
 
 * [model_training.ipynb](./code/model_training.ipynb)
 * [HTML version](./code/model_training.html)of model_training.ipynb
