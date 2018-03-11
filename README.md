@@ -11,7 +11,5 @@
 
 [//]: # (Image References)
 
-[image1]: ./imgs/Intro.png
-
-
-![alt text][image1]
+[image_0]: ./docs/misc/sim_screenshot.png
+![alt text][image_0] 
